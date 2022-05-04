@@ -1,1 +1,2 @@
-# Soham Dhuri zenron Devops CICD Jenkins Example
+# Soham Dhuri Devops CICD Jenkins Example
+Devops practicals
